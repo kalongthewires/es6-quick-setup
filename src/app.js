@@ -3,3 +3,5 @@ class App {
 		console.log('stuff');
 	}
 }
+
+new App();
